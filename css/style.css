@@ -1,0 +1,56 @@
+/* This is a CSS comment.*/
+
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Libre+Barcode+39+Text|Lobster|Pacifico');
+/*font-family: 'Lobster', cursive;*/
+/*font-family: 'Libre Barcode 39 Text', cursive;*/
+/*font-family: 'Pacifico', cursive;*/
+
+p {
+  font-size: 1em;
+  line-height: 1.5em;
+}
+
+figcaption {
+  /*font-weight: normal;
+  font-size: 0.75em;
+  line-height: 1.5em;
+  font-family: Georgia, "Times New Roman", serif;*/
+  font: normal 0.75em/1.5em Lobster, "Times New Roman", serif;
+  color: rgb(224,	108,	109	);
+  text-align: right;
+}
+
+.milk-text{
+  font: bold 2.6em 'Lobster', cursive;
+  color: white;
+  text-shadow: 0 2px 3px #000;
+}
+
+#logo{
+  background: teal;
+  font-family: "Pacifico";
+  color: white;
+  text-shadow: 0 2px 3px #000;
+}
+
+#logo h1{
+  font: normal 2.6em/1.5em Lobster, "Times New Roman", serif;
+}
+
+#details a:link, #details a:visited{
+  color: black;
+  text-decoration: none;
+}
+
+#details a:hover{
+  color: black;
+  text-decoration: underline;
+}
+
+#details a:active{
+  color: red;
+  text-decoration: underline;
+}
