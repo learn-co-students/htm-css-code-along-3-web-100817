@@ -58,7 +58,7 @@ background: aqua; }
 
 #details a:hover {
   color: black;
-  text_decoration: underline;
+  text-decoration: underline;
 }
 
 #details a:active {
