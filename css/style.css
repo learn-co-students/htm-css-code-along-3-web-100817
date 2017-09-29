@@ -53,7 +53,7 @@ background: aqua; }
 
 #details a:link, #details a:visited {
   color: black;
-  text-decoraton: none;
+  text-decoration: none;
 }
 
 #details a:hover {
@@ -61,6 +61,6 @@ background: aqua; }
   text_decoration: underline;
 }
 
-#details a:active{
+#details a:active {
   color: red;
 }
