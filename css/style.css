@@ -48,3 +48,5 @@ background: aqua; }
 #logo h2 {/* selects <h1> if inside the id="logo" */
   font-family: 'Elsie Swash Caps', cursive;
 }
+
+/* Pseudo Selector */
