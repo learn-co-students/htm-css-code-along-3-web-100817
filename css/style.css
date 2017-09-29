@@ -50,3 +50,9 @@ background: aqua; }
 }
 
 /* Pseudo Selector */
+
+#details a:link, #details a:visited {
+  color: black;
+  text-decoraton: none;
+}
+
