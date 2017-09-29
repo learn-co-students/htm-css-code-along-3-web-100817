@@ -56,3 +56,11 @@ background: aqua; }
   text-decoraton: none;
 }
 
+#details a:hover {
+  color: black;
+  text_decoration: underline;
+}
+
+#details a:active{
+  color: red;
+}
